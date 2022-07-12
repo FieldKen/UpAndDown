@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpAndDown", "UpAndDown\UpAndDown.csproj", "{B7E1AA64-6DE4-470F-9CD6-2D20F95D4A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E1AA64-6DE4-470F-9CD6-2D20F95D4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E1AA64-6DE4-470F-9CD6-2D20F95D4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E1AA64-6DE4-470F-9CD6-2D20F95D4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E1AA64-6DE4-470F-9CD6-2D20F95D4A00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5658F05F-9A4D-45A7-A77A-E57402B94C6B}
+	EndGlobalSection
+EndGlobal

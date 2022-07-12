@@ -1,0 +1,20 @@
+﻿@using Microsoft.AspNetCore.Components
+     <h3>Blazor Component in MVC</h3>
+     <button @onclick="Hoger" class="btn btn-primary">Hoger</button>
+     <button @onclick="Lager" class="btn btn-danger">Lager</button>
+     <br />
+     <div >@Getal </div>
+
+@code {
+    public int Getal { get; set; } = 5;
+
+    private void Hoger()
+    {
+        Getal++;
+    }
+
+    private void Lager()
+    {
+        Getal--;
+    }
+ }   
